@@ -36,8 +36,9 @@ The purpose of Buddy Maker is to improve collaboration and provide a better lear
 
 ## Requirements
 
--Python 3.x
--PyQt5
+- Python 3.x
+
+- PyQt5
 
 1. Install Python 3.x from the official website.
 https:
@@ -45,7 +46,7 @@ https:
 2. Install the PyQt5 library using pip.
 "pip install PyQt5"
 3. Clone the Buddy Maker repository.
-4. Run the buddy.py or for oriented-object the main.py file to start the application.
+4. Run the the main.py file to start the application.
 
 
 
