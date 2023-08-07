@@ -33,6 +33,8 @@ class MainGUI:
 
         self.right_gui.delete.clicked.connect(self.delete)
 
+        # self.right_gui.buddies.clicked.connect()
+
         self.retranslateUi()
 
         QtCore.QMetaObject.connectSlotsByName(self.dialog)

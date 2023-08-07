@@ -1,3 +1,5 @@
+![Python Version](https://img.shields.io/badge/python-%3E%3D%203.x-blue)
+
 # Buddy Maker
 
 Buddy Maker is a small tool developed during my bootcamp to facilitate remote collaboration. This helps students form buddy pairs so they can collaborate effectively on remote workdays.

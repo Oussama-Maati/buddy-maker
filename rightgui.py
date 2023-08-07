@@ -5,6 +5,7 @@ from PyQt5 import QtWidgets, QtCore
 
 class RightGUI:
     def __init__(self, dialog):
+        self.buddies = None
         self.tableWidget_2 = None
         self.buddy = None
         self.reset = None
@@ -35,11 +36,15 @@ class RightGUI:
         self.delete.setGeometry(QtCore.QRect(500, 455, 75, 24))
         self.delete.setObjectName("delete")
 
+        self.buddies = QtWidgets.QPushButton(self.dialog)
+        self.buddies.setGeometry(QtCore.QRect(340, 480, 235, 25))
+
         _translate = QtCore.QCoreApplication.translate
         self.dialog.setWindowTitle(_translate("Dialog", "Buddy Maker ! (Made by Oussama Maati @becode)"))
         self.buddy.setText(_translate("Dialog", "Make buddy"))
         self.reset.setText(_translate("Dialog", "Reset"))
         self.delete.setText(_translate("Dialog", "Remove"))
+        self.buddies.setText(_translate("Dialog", "Make all buddies"))
 
     def buddy_button_clicked(self, tableWidget):
         """
