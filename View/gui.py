@@ -1,6 +1,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
-from leftgui import LeftGUI
-from rightgui import RightGUI
+from Model.leftgui import LeftGUI
+from Model.rightgui import RightGUI
 
 
 class MainGUI:

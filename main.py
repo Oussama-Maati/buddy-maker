@@ -1,5 +1,5 @@
-from PyQt5 import QtCore, QtGui, QtWidgets
-from gui import MainGUI
+from PyQt5 import QtWidgets
+from View.gui import MainGUI
 
 
 if __name__ == "__main__":
