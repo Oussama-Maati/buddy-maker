@@ -1,4 +1,7 @@
 ![Python Version](https://img.shields.io/badge/python-%3E%3D%203.x-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Oussama-Maati/buddy-maker)
+[![GitHub issues](https://img.shields.io/github/issues/Oussama-Maati/buddy-maker)](https://github.com/Oussama-Maati/buddy-maker/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Oussama-Maati/buddy-maker)](https://github.com/Oussama-Maati/buddy-maker/stargazers)
 
 # Buddy Maker
 
